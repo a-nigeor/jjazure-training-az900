@@ -22,6 +22,9 @@ Check Azure Portal setting
 - change language
 - portal menu to Docked
 
+Create a Resource Group - this resource group will be used to store your training resources
+- rg_'first 4 letters of your name'_edu (rg_adam_edu)
+
 Check Azure Cloud Shell icon
 
 - run command az
